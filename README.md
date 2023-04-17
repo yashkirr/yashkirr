@@ -5,8 +5,6 @@ Developer & UX Enthusiast
 -------------------------
 
 * 🌍  I'm based in Cape Town, South Africa
-* 🖥️  See my portfolio at [yashkir.co.za](http://www.yashkir.co.za)
-* ✉️  You can contact me at [me@yashkir.co.za](mailto:me@yashkir.co.za)
 * 🤝  I'm open to collaborating on anything innovative really :)
 * ⚡  I like learning spoken languages
 
